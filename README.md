@@ -32,7 +32,7 @@ Computer Science student focused on software development and applied AI. I build
 
 ### Deployed Projects
 
-* **Portfolio Website** (https://my-portfolio-tawny-seven-90.vercel.app/) – Live portfolio showcasing projects, skills, and contact information
+* **Portfolio Website** (https://aishajalil.vercel.app/) – Live portfolio showcasing projects, skills, and contact information
 * **Debugging Competition Platform** (https://code-fu.vercel.app/) – Fully deployed coding platform with real-time code execution
 
 ---
