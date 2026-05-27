@@ -23,13 +23,13 @@ I build full stack and backend systems, and I work with both Python and Java bas
 
 ***
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 | | |
 |---|---|
-| **Languages**<br>Python · Java · C++ · C · JavaScript · SQL | **Frontend**<br>HTML · CSS · Next.js · Flutter · MUI |
-| **Backend**<br>FastAPI · Node.js · Spring Boot | **Databases**<br>PostgreSQL · MySQL · Firebase · Supabase |
-| **Tools & Platforms**<br>VS Code · IntelliJ · Git · GitHub · Postman · GitHub Pages · Vercel |  |
+| **Languages**<br><img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,c,sql" height="24" /><br>Python · Java · C++ · C · JavaScript · TypeScript · SQL | **Frontend**<br><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flutter" height="24" /><br>HTML · CSS · Next.js · Flutter · MUI |
+| **Backend**<br><img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring,express" height="24" /><br>FastAPI · Node.js · Spring Boot · Express.js | **Databases**<br><img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase" height="24" /><br>PostgreSQL · MySQL · Firebase · Supabase |
+| **Tools & Platforms**<br><img src="https://skillicons.dev/icons?i=vscode,intellij,git,github,postman,vercel" height="24" /><br>VS Code · IntelliJ · Git · GitHub · Postman · Vercel · GitHub Pages |  |
 
 ***
 
