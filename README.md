@@ -27,9 +27,9 @@ I build full stack and backend systems, and I work with both Python and Java bas
 
 | | |
 |---|---|
-| **Languages**&lt;br&gt;Python · Java · C++ · C · JavaScript · SQL | **Frontend**&lt;br&gt;HTML · CSS · Next.js · Flutter · MUI |
-| **Backend**&lt;br&gt;FastAPI · Node.js · Spring Boot | **Databases**&lt;br&gt;PostgreSQL · MySQL · Firebase · Supabase |
-| **Tools & Platforms**&lt;br&gt;VS Code · IntelliJ · Git · GitHub · Postman · GitHub Pages · Vercel | |
+| **Languages**<br>Python · Java · C++ · C · JavaScript · SQL | **Frontend**<br>HTML · CSS · Next.js · Flutter · MUI |
+| **Backend**<br>FastAPI · Node.js · Spring Boot | **Databases**<br>PostgreSQL · MySQL · Firebase · Supabase |
+| **Tools & Platforms**<br>VS Code · IntelliJ · Git · GitHub · Postman · GitHub Pages · Vercel |  |
 
 ***
 
@@ -43,32 +43,32 @@ I build full stack and backend systems, and I work with both Python and Java bas
 
 ### 🌐 Deployed Projects
 
-- **Portfolio Website** (https://aishajalil.vercel.app/) – Live portfolio showcasing projects, skills, and contact information
-- **Debugging Competition Platform** (https://code-fu.vercel.app/) – Fully deployed coding platform with real-time code execution
+- **Portfolio Website** ([aishajalil.vercel.app](https://aishajalil.vercel.app/)) – Live portfolio showcasing projects, skills, and contact information
+- **Debugging Competition Platform** ([code-fu.vercel.app](https://code-fu.vercel.app/)) – Fully deployed coding platform with real-time code execution
 
 ***
 
 ### 📊 GitHub Stats
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=AishaJalil&show_icons=true&theme=default&hide_border=false" height="150" /&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishaJalil&layout=compact&hide_border=false" height="150" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AishaJalil&show_icons=true&theme=default&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishaJalil&layout=compact&hide_border=false" height="150" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=AishaJalil&hide_border=false" height="150" /&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=AishaJalil&show_icons=true&theme=default&hide_border=false&custom_title=Profile%20Overview" height="150" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AishaJalil&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AishaJalil&show_icons=true&theme=default&hide_border=false&custom_title=Profile%20Overview" height="150" />
+</p>
 
 ***
 
 ### 🐍 Contribution Snake
 
-&lt;picture&gt;
-  &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AishaJalil/AishaJalil/output/github-contribution-grid-snake-dark.svg" /&gt;
-  &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AishaJalil/AishaJalil/output/github-contribution-grid-snake.svg" /&gt;
-  &lt;img alt="github-snake" src="https://raw.githubusercontent.com/AishaJalil/AishaJalil/output/github-contribution-grid-snake.svg" /&gt;
-&lt;/picture&gt;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AishaJalil/AishaJalil/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AishaJalil/AishaJalil/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AishaJalil/AishaJalil/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ***
 
@@ -83,6 +83,6 @@ I build full stack and backend systems, and I work with both Python and Java bas
 
 ### 📫 Connect
 
-- LinkedIn: https://linkedin.com/in/aisha-jalil
-- GitHub: https://github.com/AishaJalil
-- Portfolio: https://aishajalil.vercel.app/
+- [LinkedIn](https://linkedin.com/in/aisha-jalil)
+- [GitHub](https://github.com/AishaJalil)
+- [Portfolio](https://aishajalil.vercel.app/)
