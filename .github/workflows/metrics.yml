@@ -14,8 +14,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: huzaifa9559
+          token: ${{ secrets.GA_TOKEN }}
+          user: AishaJalil
           filename: metrics.svg
           base: header, activity, repositories
           config_timezone: Asia/Karachi
