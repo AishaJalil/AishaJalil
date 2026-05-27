@@ -85,7 +85,7 @@ I build full stack and backend systems, and I work with both Python and Java bas
 </p>
 
 <p align="center">
-  <img src="https://github.com/AishaJalil/AishaJalil/raw/main/metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://github.com/AishaJalil/AishaJalil/raw/main/metrics.svg" alt="GitHub Metrics" width="70%" />
 </p>
 
 
