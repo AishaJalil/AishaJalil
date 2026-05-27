@@ -2,7 +2,7 @@ name: Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day
+    - cron: "0 0 * * *" # Runs every day at midnight
   workflow_dispatch:
   push:
     branches:
@@ -15,4 +15,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@v0.6.0
         with:
-           USERNAME: ${{ github.repository_owner }}
+          USERNAME: ${{ github.repository_owner }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
