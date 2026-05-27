@@ -1,6 +1,26 @@
-## Hi, I'm Aisha Jalil 👋
+<h1 align="center">👋 Hi, I'm Aisha Jalil</h1>
+<p align="center">
+  From clean architecture to cloud deployment: I build systems that scale.
+</p>
 
-**Computer Science Student · Full Stack Developer · Applied AI Enthusiast**
+<p align="center">
+  <a href="https://linkedin.com/in/aisha-jalil/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:aishajalil387@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.upwork.com/freelancers/~01e3a2f156e42651ad" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Upwork-Hire-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://aishajalil.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=shiki&logoColor=white" />
+  </a>
+</p>
+
 
 I build full stack and backend systems, and I work with both Python and Java based stacks. I like building projects that are actually usable and deployed.
 
@@ -48,19 +68,26 @@ I build full stack and backend systems, and I work with both Python and Java bas
 
 ***
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AishaJalil&show_icons=true&theme=default&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishaJalil&layout=compact&hide_border=false" height="150" />
+  <img src="https://github.com/AishaJalil/AishaJalil/raw/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AishaJalil&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AishaJalil&show_icons=true&theme=default&hide_border=false&custom_title=Profile%20Overview" height="150" />
+  <img src="https://github.com/AishaJalil/AishaJalil/raw/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos Per Language" height="160" />
+  <img src="https://github.com/AishaJalil/AishaJalil/raw/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" height="160" />
 </p>
 
-***
+<p align="center">
+  <img src="https://github.com/AishaJalil/AishaJalil/raw/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" height="160" />
+  <img src="https://github.com/AishaJalil/AishaJalil/raw/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/AishaJalil/AishaJalil/raw/main/metrics.svg" alt="GitHub Metrics" width="100%" />
+</p>
+
 
 ### 🐍 Contribution Snake
 
