@@ -15,6 +15,4 @@ jobs:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@v0.6.0
         with:
-          USERNAME: ${{ github.repository_owner }}
-          # choose a theme or use several, e.g. 'github_dark', 'default', '2077'
-          CARD_THEME: "github_dark"
+           USERNAME: ${{ github.repository_owner }}
