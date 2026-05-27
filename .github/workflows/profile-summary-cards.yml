@@ -11,10 +11,24 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - uses: actions/checkout@v4
+
       - uses: vn7n24fzkq/github-profile-summary-cards@v0.6.0
         with:
           USERNAME: ${{ github.repository_owner }}
+          cards: |
+            [
+              "SummaryCard",
+              "StatsCard",
+              "MostCommitLanguageCard",
+              "TopLanguagesCard",
+              "LanguagesBySizeCard",
+              "CommitsPerDayCard",
+              "CommitsPerHourCard",
+              "ProfileDetailsCard"
+            ]
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
