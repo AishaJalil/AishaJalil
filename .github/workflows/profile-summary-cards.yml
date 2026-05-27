@@ -1,22 +1,23 @@
-name: Profile Summary Cards
+name: GitHub Profile Summary Cards
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 0 * * *"  # daily
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards-action@release
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GA_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          UTC_OFFSET: 5
+          AUTO_PUSH: true
